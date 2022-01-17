@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 10 13:48:40 2022
 
-@author: serhat
-"""
 
 class prius_model_predict:    
 
