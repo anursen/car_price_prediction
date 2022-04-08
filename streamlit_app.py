@@ -55,7 +55,7 @@ condition = ('Accident check\nNo issues reported',
 
 usage_type = ('Personal', 'Commercial')
 
-st.title('Here is our car price prediction app. We gathered 3000 Prius price from CarsGuru, and create a Machine Learning Model to predict the true value of your car.') ')
+st.title('Here is our car price prediction app. We gathered 3000 Prius price from CarsGuru, and create a Machine Learning Model to predict the true value of your car.')
 st.text('Welcome')
 st.text('Please enter the features of the vehicle you want to calculate the price of.')
 
