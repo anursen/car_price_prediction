@@ -1,4 +1,4 @@
-# Complete Machine learning project example
+# Complete Machine learning project 
 
 We had scrapped web data with selenium and clean it,
 Implemented appropriate machine learning modules.
